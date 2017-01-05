@@ -22,6 +22,7 @@
 */*.unityproj
 */*.booproj
 */.idea*/
+*/.vscode/
 
 # ============ #
 # OS generated #
